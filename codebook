@@ -1,6 +1,9 @@
 DATA DICTIONARY - Column Means of Human Activity Recognition Using Smartphones Dataset for columns of means and standard 
-
-deviation
+deviation.  The orginal data is located at
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+with a description of the original data located at
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+ 
 
 Subject	2
 	Subject identifier
@@ -152,101 +155,101 @@ FrequencyuencyDomainSignalBodyBodyAccelerationJerkMag-meanFrequency
 	MEAN OF "fBodyBodyGyroJerkMag-meanFreq()"
 		-1..1
 TimeBodyAcceleration-StandardDeviation-X
-	MEAN OF 
+	MEAN OF "tBodyAcc-std()-X"
 		-1..1
 TimeBodyAcceleration-StandardDeviation-Y
-	MEAN OF 
+	MEAN OF "tBodyAcc-std()-Y"
 		-1..1
 TimeBodyAcceleration-StandardDeviation-Z
-	MEAN OF 
+	MEAN OF "tBodyAcc-std()-Z"
 		-1..1
 TimeGravityAcceleration-StandardDeviation-X
-	MEAN OF 
+	MEAN OF "tGravityAcc-std()-X"
 		-1..1
 TimeGravityAcceleration-StandardDeviation-Y
-	MEAN OF 
+	MEAN OF "tGravityAcc-std()-Y"
 		-1..1
 TimeGravityAcceleration-StandardDeviation-Z
-	MEAN OF 
+	MEAN OF "tGravityAcc-std()-Z"
 		-1..1
 TimeBodyAccelerationJerk-StandardDeviation-X
-	MEAN OF 
+	MEAN OF "tBodyAccJerk-std()-X"
 		-1..1
 TimeBodyAccelerationJerk-StandardDeviation-Y
-	MEAN OF 
+	MEAN OF "tBodyAccJerk-std()-Y"
 		-1..1
 TimeBodyAccelerationJerk-StandardDeviation-Z
-	MEAN OF 
+	MEAN OF "tBodyAccJerk-std()-Z"
 		-1..1
 TimeBodyGyro-StandardDeviation-X
-	MEAN OF 
+	MEAN OF "tBodyGyro-std()-X"
 		-1..1
 TimeBodyGyro-StandardDeviation-Y
-	MEAN OF 
+	MEAN OF "tBodyGyro-std()-Y"
 		-1..1
 TimeBodyGyro-StandardDeviation-Z
-	MEAN OF 
+	MEAN OF "tBodyGyro-std()-Z"
 		-1..1
 TimeBodyGyroJerk-StandardDeviation-X
-	MEAN OF 
+	MEAN OF "tBodyGyroJerk-std()-X"
 		-1..1
 TimeBodyGyroJerk-StandardDeviation-Y
-	MEAN OF 
+	MEAN OF "tBodyGyroJerk-std()-Y"
 		-1..1
 TimeBodyGyroJerk-StandardDeviation-Z
-	MEAN OF 
+	MEAN OF "tBodyGyroJerk-std()-Z"
 		-1..1
 TimeBodyAccelerationMag-StandardDeviation
-	MEAN OF 
+	MEAN OF "tBodyAccMag-std()"
 		-1..1
 TimeGravityAccelerationMag-StandardDeviation
-	MEAN OF 
+	MEAN OF "tGravityAccMag-std()"
 		-1..1
 TimeBodyAccelerationJerkMag-StandardDeviation
-	MEAN OF 
+	MEAN OF "tBodyAccJerkMag-std()"
 		-1..1
 TimeBodyGyroMag-StandardDeviation
-	MEAN OF 
+	MEAN OF "tBodyGyroMag-std()"
 		-1..1
 TimeBodyGyroJerkMag-StandardDeviation
-	MEAN OF 
+	MEAN OF "tBodyGyroJerkMag-std()"
 		-1..1
 FrequencyuencyDomainSignalBodyAcceleration-StandardDeviation-X
-	MEAN OF 
+	MEAN OF "fBodyAcc-std()-X"
 		-1..1
 FrequencyuencyDomainSignalBodyAcceleration-StandardDeviation-Y
-	MEAN OF 
+	MEAN OF "fBodyAcc-std()-Y"
 		-1..1
 FrequencyuencyDomainSignalBodyAcceleration-StandardDeviation-Z
-	MEAN OF 
+	MEAN OF "fBodyAcc-std()-Z"
 		-1..1
 FrequencyuencyDomainSignalBodyAccelerationJerk-StandardDeviation-X
-	MEAN OF 
+	MEAN OF "fBodyAccJerk-std()-X"
 		-1..1
 FrequencyuencyDomainSignalBodyAccelerationJerk-StandardDeviation-Y
-	MEAN OF 
+	MEAN OF "fBodyAccJerk-std()-Y"
 		-1..1
 FrequencyuencyDomainSignalBodyAccelerationJerk-StandardDeviation-Z
-	MEAN OF 
+	MEAN OF "fBodyAccJerk-std()-Z"
 		-1..1
 FrequencyuencyDomainSignalBodyGyro-StandardDeviation-X
-	MEAN OF 
+	MEAN OF "fBodyGyro-std()-X"
 		-1..1
 FrequencyuencyDomainSignalBodyGyro-StandardDeviation-Y
-	MEAN OF 
+	MEAN OF "fBodyGyro-std()-Y"
 		-1..1
 FrequencyuencyDomainSignalBodyGyro-StandardDeviation-Z
-	MEAN OF 
+	MEAN OF "fBodyGyro-std()-Z"
 		-1..1
 FrequencyuencyDomainSignalBodyAccelerationMag-StandardDeviation
-	MEAN OF 
+	MEAN OF "fBodyAccMag-std()"
 		-1..1
 FrequencyuencyDomainSignalBodyBodyAccelerationJerkMag-StandardDeviation
-	MEAN OF 
+	MEAN OF "fBodyBodyAccJerkMag-std()"
 		-1..1
 FrequencyuencyDomainSignalBodyBodyGyroMag-StandardDeviation
-	MEAN OF 
+	MEAN OF "fBodyBodyGyroMag-std()"
 		-1..1
 FrequencyuencyDomainSignalBodyBodyGyroJerkMag-StandardDeviation
-	MEAN OF 
+	MEAN OF "fBodyBodyGyroJerkMag-std()"
 		-1..1
