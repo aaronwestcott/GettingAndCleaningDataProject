@@ -91,9 +91,7 @@ names(data_processed)[1]<-"Subject"
 names(data_processed)[2]<-"Activity"
 
 
-All files are read into data.fr
-#sum
-<<<<<<< HEAD
+
 library(data.table)
 #14
 for (i in 3:81 ) {data_processed[,i] <- as.numeric(as.character(data_processed[,i])) }
