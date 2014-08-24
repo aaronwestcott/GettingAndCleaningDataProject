@@ -2,10 +2,17 @@ DATA DICTIONARY - Column Means of Human Activity Recognition Using Smartphones D
 
 deviation
 
-NOTE: Ran out of time to paste in all the original column names that I took the means of.  Frankly, kids, work etc...  I hope I can get some credit for the codebook.  Thanks
-
-Subject
-Activity
+Subject	2
+	Subject identifier
+		1..30
+Activity	1
+	Activity measured
+		1 WALKING
+		2 WALKING_UPSTAIRS
+		3 WALKING_DOWNSTAIRS
+		4 SITTING
+		5 STANDING
+		6 LAYING
 TimeBodyAcceleration-mean-X	11
 	MEAN OF "tBodyAcc-mean()-X
 		-1..1
@@ -52,97 +59,97 @@ TimeBodyAccelerationJerk-mean-Z
 	MEAN OF "tBodyGyroJerk-mean()-Z"
 		-1..1
 TimeBodyAccelerationMag-mean
-	MEAN OF 
+	MEAN OF "tBodyAccMag-mean()"
 		-1..1
 TimeGravityAccelerationMag-mean
-	MEAN OF 
+	MEAN OF "tGravityAccMag-mean()"
 		-1..1
 TimeBodyAccelerationJerkMag-mean
-	MEAN OF 
+	MEAN OF "tBodyAccJerkMag-mean()"
 		-1..1
 TimeBodyAccelerationMag-mean
-	MEAN OF 
+	MEAN OF "tBodyGyroMag-mean()"
 		-1..1
 TimeBodyAccelerationJerkMag-mean
-	MEAN OF 
+	MEAN OF "tBodyGyroJerkMag-mean()"
 		-1..1
 FrequencyuencyDomainSignalBodyAcceleration-mean-X
-	MEAN OF 
+	MEAN OF "fBodyAcc-mean()-X"
 		-1..1
 FrequencyuencyDomainSignalBodyAcceleration-mean-Y
-	MEAN OF 
+	MEAN OF "fBodyAcc-mean()-Y"
 		-1..1
 FrequencyuencyDomainSignalBodyAcceleration-mean-Z
-	MEAN OF 
+	MEAN OF "fBodyAcc-mean()-Z"
 		-1..1
 FrequencyuencyDomainSignalBodyAcceleration-meanFrequency-X
-	MEAN OF 
+	MEAN OF "fBodyAcc-meanFreq()-X"
 		-1..1
 FrequencyuencyDomainSignalBodyAcceleration-meanFrequency-Y
-	MEAN OF 
+	MEAN OF "fBodyAcc-meanFreq()-Y"
 		-1..1
 FrequencyuencyDomainSignalBodyAcceleration-meanFrequency-Z
-	MEAN OF 
+	MEAN OF "fBodyAcc-meanFreq()-Z"
 		-1..1
 FrequencyuencyDomainSignalBodyAccelerationJerk-mean-X
-	MEAN OF 
+	MEAN OF "fBodyAccJerk-mean()-X"
 		-1..1
 FrequencyuencyDomainSignalBodyAccelerationJerk-mean-Y
-	MEAN OF 
+	MEAN OF "fBodyAccJerk-mean()-Y"
 		-1..1
 FrequencyuencyDomainSignalBodyAccelerationJerk-mean-Z
-	MEAN OF 
+	MEAN OF "fBodyAccJerk-mean()-Z"
 		-1..1
 FrequencyuencyDomainSignalBodyAccelerationJerk-meanFrequency-X
-	MEAN OF 
+	MEAN OF "fBodyAccJerk-meanFreq()-X"
 		-1..1
 FrequencyuencyDomainSignalBodyAccelerationJerk-meanFrequency-Y
-	MEAN OF 
+	MEAN OF "fBodyAccJerk-meanFreq()-Y"
 		-1..1
 FrequencyuencyDomainSignalBodyAccelerationJerk-meanFrequency-Z
-	MEAN OF 
+	MEAN OF "fBodyAccJerk-meanFreq()-Z"
 		-1..1
 FrequencyuencyDomainSignalBodyAcceleration-mean-X
-	MEAN OF 
+	MEAN OF "fBodyGyro-mean()-X"
 		-1..1
 FrequencyuencyDomainSignalBodyAcceleration-mean-Y
-	MEAN OF 
+	MEAN OF "fBodyGyro-mean()-Y"
 		-1..1
 FrequencyuencyDomainSignalBodyAcceleration-mean-Z
-	MEAN OF 
+	MEAN OF "fBodyGyro-mean()-Z"
 		-1..1
 FrequencyuencyDomainSignalBodyAcceleration-meanFrequency-X
-	MEAN OF 
+	MEAN OF "fBodyGyro-meanFreq()-X"
 		-1..1
 FrequencyuencyDomainSignalBodyAcceleration-meanFrequency-Y
-	MEAN OF 
+	MEAN OF "fBodyGyro-meanFreq()-Y"
 		-1..1
 FrequencyuencyDomainSignalBodyAcceleration-meanFrequency-Z
-	MEAN OF 
+	MEAN OF "fBodyGyro-meanFreq()-Z"
 		-1..1
 FrequencyuencyDomainSignalBodyAccelerationMag-mean
-	MEAN OF 
+	MEAN OF "fBodyAccMag-mean()"
 		-1..1
 FrequencyuencyDomainSignalBodyAccelerationMag-meanFrequency
-	MEAN OF 
+	MEAN OF "fBodyAccMag-meanFreq()"
 		-1..1
 FrequencyuencyDomainSignalBodyBodyAccelerationJerkMag-mean
-	MEAN OF 
+	MEAN OF "fBodyBodyAccJerkMag-mean()"
 		-1..1
 FrequencyuencyDomainSignalBodyBodyAccelerationJerkMag-meanFrequency
-	MEAN OF 
+	MEAN OF "fBodyBodyAccJerkMag-meanFreq()"
 		-1..1
 FrequencyuencyDomainSignalBodyBodyAccelerationMag-mean
-	MEAN OF 
+	MEAN OF "fBodyBodyGyroMag-mean()"
 		-1..1
 FrequencyuencyDomainSignalBodyBodyAccelerationMag-meanFrequency
-	MEAN OF 
+	MEAN OF "fBodyBodyGyroMag-meanFreq()"
 		-1..1
 FrequencyuencyDomainSignalBodyBodyAccelerationJerkMag-mean
-	MEAN OF 
+	MEAN OF "fBodyBodyGyroJerkMag-mean()"
 		-1..1
 FrequencyuencyDomainSignalBodyBodyAccelerationJerkMag-meanFrequency
-	MEAN OF 
+	MEAN OF "fBodyBodyGyroJerkMag-meanFreq()"
 		-1..1
 TimeBodyAcceleration-StandardDeviation-X
 	MEAN OF 
