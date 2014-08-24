@@ -3,12 +3,15 @@ GettingAndCleaningDataProject
 
 Project for the Getting and Cleaning Data on Coursera
 
+Summary:
+The original file were X_Train and X_test containing the measurment data was bound together to create a full set of data.  The features were then limited to those containing the word "mean" or "std".  This reduced the dataset down to 79 remaining features.  The Activity and Subject were bound and the means of the columns found by subject/activity combination.  The resulting dataset is then cleaned up and written out.
 
+The individual analysis steps performed are as follows (The numbers match the code): 
 
-The analysis steps performed are as follows (The numbers match the code): 1. All files are read into R. X_train.txt X_test.txt features.txt activity_labels.txt subject_test.txt y_test.txt y_train.txt subject_test.txt subject_train.txt activity_labels.txt
+1. All files are read into R. X_train.txt X_test.txt features.txt activity_labels.txt subject_test.txt y_test.txt y_train.txt subject_test.txt subject_train.txt activity_labels.txt
  1.Using rbind, concatonate the the X_train to X_Test, Y_Train to Y_TEst and subject_train to subject_test data together one set on top of the other.
  
- 2.MErge the activity labels o the the Y data and simply grab the full text names of the activities
+ 2.Merge the activity labels o the the Y data and simply grab the full text names of the activities
  
  3.Column bind the subjects to the activities
  
