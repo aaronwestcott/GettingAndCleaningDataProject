@@ -1,0 +1,245 @@
+DATA DICTIONARY - Column Means of Human Activity Recognition Using Smartphones Dataset for columns of means and standard 
+
+deviation
+
+NOTE: Ran out of time to paste in all the original column names that I took the means of.  Frankly, kids, work etc...  I hope I can get some credit for the codebook.  Thanks
+
+Subject
+Activity
+TimeBodyAcceleration-mean-X	11
+	MEAN OF "tBodyAcc-mean()-X
+		-1..1
+TimeBodyAcceleration-mean-Y	11
+	MEAN OF tBodyAcc-mean()-Y
+		-1..1
+TimeBodyAcceleration-mean-Z
+	MEAN OF "tBodyAcc-mean()-Z"
+		-1..1
+TimeGravityAcceleration-mean-X
+	MEAN OF tGravityAcc-mean()-X"  
+		-1..1		
+TimeGravityAcceleration-mean-Y
+	MEAN OF "tGravityAcc-mean()-Y" 
+		-1..1
+TimeGravityAcceleration-mean-Z
+	MEAN OF "tGravityAcc-mean()-Z"
+		-1..1
+TimeBodyAccelerationJerk-mean-X
+	MEAN OF "tBodyAccJerk-mean()-X"
+		-1..1
+TimeBodyAccelerationJerk-mean-Y
+	MEAN OF "tBodyAccJerk-mean()-Y"
+		-1..1
+TimeBodyAccelerationJerk-mean-Z
+	MEAN OF "tBodyAccJerk-mean()-Z"
+		-1..1
+TimeBodyAcceleration-mean-X
+	MEAN OF "tBodyGyro-mean()-X"
+		-1..1
+TimeBodyAcceleration-mean-Y
+	MEAN OF "tBodyGyro-mean()-Y"
+		-1..1
+TimeBodyAcceleration-mean-Z
+	MEAN OF "tBodyGyro-mean()-Z"
+		-1..1
+TimeBodyAccelerationJerk-mean-X
+	MEAN OF "tBodyGyroJerk-mean()-X"
+		-1..1
+TimeBodyAccelerationJerk-mean-Y
+	MEAN OF "tBodyGyroJerk-mean()-Y"
+		-1..1
+TimeBodyAccelerationJerk-mean-Z
+	MEAN OF "tBodyGyroJerk-mean()-Z"
+		-1..1
+TimeBodyAccelerationMag-mean
+	MEAN OF 
+		-1..1
+TimeGravityAccelerationMag-mean
+	MEAN OF 
+		-1..1
+TimeBodyAccelerationJerkMag-mean
+	MEAN OF 
+		-1..1
+TimeBodyAccelerationMag-mean
+	MEAN OF 
+		-1..1
+TimeBodyAccelerationJerkMag-mean
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAcceleration-mean-X
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAcceleration-mean-Y
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAcceleration-mean-Z
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAcceleration-meanFrequency-X
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAcceleration-meanFrequency-Y
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAcceleration-meanFrequency-Z
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAccelerationJerk-mean-X
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAccelerationJerk-mean-Y
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAccelerationJerk-mean-Z
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAccelerationJerk-meanFrequency-X
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAccelerationJerk-meanFrequency-Y
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAccelerationJerk-meanFrequency-Z
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAcceleration-mean-X
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAcceleration-mean-Y
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAcceleration-mean-Z
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAcceleration-meanFrequency-X
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAcceleration-meanFrequency-Y
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAcceleration-meanFrequency-Z
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAccelerationMag-mean
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAccelerationMag-meanFrequency
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyBodyAccelerationJerkMag-mean
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyBodyAccelerationJerkMag-meanFrequency
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyBodyAccelerationMag-mean
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyBodyAccelerationMag-meanFrequency
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyBodyAccelerationJerkMag-mean
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyBodyAccelerationJerkMag-meanFrequency
+	MEAN OF 
+		-1..1
+TimeBodyAcceleration-StandardDeviation-X
+	MEAN OF 
+		-1..1
+TimeBodyAcceleration-StandardDeviation-Y
+	MEAN OF 
+		-1..1
+TimeBodyAcceleration-StandardDeviation-Z
+	MEAN OF 
+		-1..1
+TimeGravityAcceleration-StandardDeviation-X
+	MEAN OF 
+		-1..1
+TimeGravityAcceleration-StandardDeviation-Y
+	MEAN OF 
+		-1..1
+TimeGravityAcceleration-StandardDeviation-Z
+	MEAN OF 
+		-1..1
+TimeBodyAccelerationJerk-StandardDeviation-X
+	MEAN OF 
+		-1..1
+TimeBodyAccelerationJerk-StandardDeviation-Y
+	MEAN OF 
+		-1..1
+TimeBodyAccelerationJerk-StandardDeviation-Z
+	MEAN OF 
+		-1..1
+TimeBodyGyro-StandardDeviation-X
+	MEAN OF 
+		-1..1
+TimeBodyGyro-StandardDeviation-Y
+	MEAN OF 
+		-1..1
+TimeBodyGyro-StandardDeviation-Z
+	MEAN OF 
+		-1..1
+TimeBodyGyroJerk-StandardDeviation-X
+	MEAN OF 
+		-1..1
+TimeBodyGyroJerk-StandardDeviation-Y
+	MEAN OF 
+		-1..1
+TimeBodyGyroJerk-StandardDeviation-Z
+	MEAN OF 
+		-1..1
+TimeBodyAccelerationMag-StandardDeviation
+	MEAN OF 
+		-1..1
+TimeGravityAccelerationMag-StandardDeviation
+	MEAN OF 
+		-1..1
+TimeBodyAccelerationJerkMag-StandardDeviation
+	MEAN OF 
+		-1..1
+TimeBodyGyroMag-StandardDeviation
+	MEAN OF 
+		-1..1
+TimeBodyGyroJerkMag-StandardDeviation
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAcceleration-StandardDeviation-X
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAcceleration-StandardDeviation-Y
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAcceleration-StandardDeviation-Z
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAccelerationJerk-StandardDeviation-X
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAccelerationJerk-StandardDeviation-Y
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAccelerationJerk-StandardDeviation-Z
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyGyro-StandardDeviation-X
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyGyro-StandardDeviation-Y
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyGyro-StandardDeviation-Z
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyAccelerationMag-StandardDeviation
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyBodyAccelerationJerkMag-StandardDeviation
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyBodyGyroMag-StandardDeviation
+	MEAN OF 
+		-1..1
+FrequencyuencyDomainSignalBodyBodyGyroJerkMag-StandardDeviation
+	MEAN OF 
+		-1..1
